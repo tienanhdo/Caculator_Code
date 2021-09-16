@@ -1,0 +1,19 @@
+D:\Calc_Mini\Calc_Mini\bin\Debug\Calc_Mini.exe.config
+D:\Calc_Mini\Calc_Mini\bin\Debug\Calc_Mini.exe
+D:\Calc_Mini\Calc_Mini\bin\Debug\Calc_Mini.pdb
+D:\Calc_Mini\Calc_Mini\obj\Debug\Calc_Mini.csprojResolveAssemblyReference.cache
+D:\Calc_Mini\Calc_Mini\obj\Debug\Calc_Mini.Form1.resources
+D:\Calc_Mini\Calc_Mini\obj\Debug\Calc_Mini.Properties.Resources.resources
+D:\Calc_Mini\Calc_Mini\obj\Debug\Calc_Mini.csproj.GenerateResource.Cache
+D:\Calc_Mini\Calc_Mini\obj\Debug\Calc_Mini.exe
+D:\Calc_Mini\Calc_Mini\obj\Debug\Calc_Mini.pdb
+C:\Users\Tien Anh Do\Downloads\Calc_Mini\Calc_Mini\bin\Debug\Calc_Mini.exe.config
+C:\Users\Tien Anh Do\Downloads\Calc_Mini\Calc_Mini\bin\Debug\Calc_Mini.exe
+C:\Users\Tien Anh Do\Downloads\Calc_Mini\Calc_Mini\bin\Debug\Calc_Mini.pdb
+C:\Users\Tien Anh Do\Downloads\Calc_Mini\Calc_Mini\obj\Debug\Calc_Mini.csproj.AssemblyReference.cache
+C:\Users\Tien Anh Do\Downloads\Calc_Mini\Calc_Mini\obj\Debug\Calc_Mini.Form1.resources
+C:\Users\Tien Anh Do\Downloads\Calc_Mini\Calc_Mini\obj\Debug\Calc_Mini.Properties.Resources.resources
+C:\Users\Tien Anh Do\Downloads\Calc_Mini\Calc_Mini\obj\Debug\Calc_Mini.csproj.GenerateResource.cache
+C:\Users\Tien Anh Do\Downloads\Calc_Mini\Calc_Mini\obj\Debug\Calc_Mini.csproj.CoreCompileInputs.cache
+C:\Users\Tien Anh Do\Downloads\Calc_Mini\Calc_Mini\obj\Debug\Calc_Mini.exe
+C:\Users\Tien Anh Do\Downloads\Calc_Mini\Calc_Mini\obj\Debug\Calc_Mini.pdb
